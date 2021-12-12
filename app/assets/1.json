@@ -1,0 +1,19 @@
+{
+    "name": "City Hall Ghost Town",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "FRdPxZYh8YJjQAQfsPwvdEtW47N9bDnjZ3Ct6pYiHzTJ",
+                "share": 100
+            }
+        ]
+    }
+}

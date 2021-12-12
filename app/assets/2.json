@@ -1,0 +1,19 @@
+{
+    "name": "City Hall - Sun Behind",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "FRdPxZYh8YJjQAQfsPwvdEtW47N9bDnjZ3Ct6pYiHzTJ",
+                "share": 100
+            }
+        ]
+    }
+}
